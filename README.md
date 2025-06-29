@@ -57,7 +57,7 @@ Each folder contains relevant C++, Java & Python source files along with comment
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/adityaanand05/dsa.git
+   git clone https://github.com/adityaanand05/DSA.git
    cd dsa-cpp
    ```
 
