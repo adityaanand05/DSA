@@ -1,7 +1,6 @@
+# 📘 Data Structures and Algorithms 
 
-# 📘 Data Structures and Algorithms in C++
-
-This repository contains a comprehensive collection of data structures and algorithms implemented in C++. It is intended for students, developers, and competitive programmers who are looking to build a solid foundation in DSA or prepare for technical interviews.
+This repository contains a comprehensive collection of data structures and algorithms implemented in C++, Java & Python. It is intended for students, developers, and competitive programmers who are looking to build a solid foundation in DSA or prepare for technical interviews.
 
 ---
 
@@ -24,14 +23,14 @@ This repository contains a comprehensive collection of data structures and algor
 └── README.md
 ```
 
-Each folder contains relevant C++ source files (`.cpp`) along with comments and sample test cases.
+Each folder contains relevant C++, Java & Python source files along with comments and sample test cases.
 
 ---
 
 ## 🔧 Technologies Used
 
-- **Language:** C++
-- **Compiler:** g++ (C++17 or later recommended)
+- **Languages:** C++, Java & Python
+- **Compiler:** g++ (C++17 or later recommended), Java & Python
 - **IDE:** VSCode / CLion / any text editor
 - **Build Tool (Optional):** CMake / Make
 
@@ -56,12 +55,14 @@ Each folder contains relevant C++ source files (`.cpp`) along with comments and 
 ## 🚀 How to Use
 
 1. **Clone the repository:**
+
    ```bash
-   git clone https://github.com/adityaanand05/dsa-cpp.git
+   git clone https://github.com/adityaanand05/dsa.git
    cd dsa-cpp
    ```
 
 2. **Compile and Run:**
+
    ```bash
    g++ Arrays/01.cpp -o output
    ./output
@@ -89,7 +90,8 @@ Pull requests are welcome. If you want to contribute, please fork the repository
 ## 📩 Contact
 
 For feedback, suggestions, or collaborations:
-- **Email:** aditya19connect@gmail.com
+
+- **Email:** [aditya19connect@gmail.com](mailto\:aditya19connect@gmail.com)
 - **LinkedIn:** [adityaanand05](https://linkedin.com/in/adityaanand05)
 - **GitHub:** [@adityaanand05](https://github.com/adityaanand05)
 
@@ -98,3 +100,4 @@ For feedback, suggestions, or collaborations:
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
