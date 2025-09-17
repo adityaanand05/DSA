@@ -2,7 +2,7 @@
 
 using namespace std;
 string repertname(string s, int n) {
-    if (n == 0) {
+    if (n <= 0) {
         return "";
     }
     cout << s << endl;
