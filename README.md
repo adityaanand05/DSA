@@ -2,7 +2,7 @@
 
 # 📘 DSA Preparation — Striver's SDE Sheet Coverage
 
-This repository contains **C++ solutions** to Data Structures and Algorithms problems I've solved during my preparation. The problem set **mostly covers** [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) along with additional practice problems.
+This repository contains **C++ solutions** to Data Structures and Algorithms problems I've solved during my preparation. The problem set **mostly covers** [Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z/) along with additional practice problems.
 
 ---
 
@@ -66,7 +66,7 @@ Each folder contains C++ source files with problem statements in comments and ex
 2. **Compile and Run any file:**
 
    ```bash
-   g++ -std=c++17 Arrays/01_two_sum.cpp -o output
+   g++ -std=c++17 Arrays/Two_Sum.cpp -o output
    ./output
    ```
 
@@ -75,10 +75,9 @@ Each folder contains C++ source files with problem statements in comments and ex
 ## 📋 Reference
 
 Most problems are sourced from:
-- **[Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)**
-- LeetCode
-- GeeksforGeeks
-- Coding Ninjas
+- **[Striver's SDE Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z/)**
+- **[LeetCode](https://leetcode.com/u/adityaanand005/)**
+- **[GeeksforGeeks](https://www.geeksforgeeks.org/profile/adityaanand05/)**
 
 ---
 
