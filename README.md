@@ -1,6 +1,8 @@
-# 📘 Data Structures and Algorithms 
+---
 
-This repository contains a comprehensive collection of data structures and algorithms implemented in C++, Java & Python. It is intended for students, developers, and competitive programmers who are looking to build a solid foundation in DSA or prepare for technical interviews.
+# 📘 DSA Preparation — Striver's SDE Sheet Coverage
+
+This repository contains **C++ solutions** to Data Structures and Algorithms problems I've solved during my preparation. The problem set **mostly covers** [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) along with additional practice problems.
 
 ---
 
@@ -9,89 +11,86 @@ This repository contains a comprehensive collection of data structures and algor
 ```
 .
 ├── Arrays/
+├── Strings/
 ├── LinkedLists/
 ├── Stacks/
 ├── Queues/
 ├── Trees/
+├── BinarySearchTrees/
 ├── Graphs/
-├── Searching/
-├── Sorting/
-├── DynamicProgramming/
-├── GreedyAlgorithms/
+├── Recursion/
 ├── Backtracking/
+├── DynamicProgramming/
+├── Greedy/
 ├── BitManipulation/
+├── SlidingWindow/
+├── TwoPointers/
 └── README.md
 ```
 
-Each folder contains relevant C++, Java & Python source files along with comments and sample test cases.
+Each folder contains C++ source files with problem statements in comments and example test cases.
 
 ---
 
 ## 🔧 Technologies Used
 
-- **Languages:** C++, Java & Python
-- **Compiler:** g++ (C++17 or later recommended), Java & Python
-- **IDE:** VSCode / CLion / any text editor
-- **Build Tool (Optional):** CMake / Make
+- **Language:** C++ (C++17)
+- **Compiler:** g++
 
 ---
 
 ## 🧠 Topics Covered
 
-- Arrays, Strings
-- Linked Lists (Singly, Doubly, Circular)
+- Arrays & Strings
+- Linked Lists (Singly, Doubly)
 - Stacks & Queues
-- Trees (Binary Tree, BST, Traversals)
-- Graph Algorithms (BFS, DFS, Dijkstra, etc.)
-- Sorting (Merge Sort, Quick Sort, etc.)
-- Searching (Binary Search, Linear Search)
-- Dynamic Programming
+- Trees & Binary Search Trees
+- Graphs (BFS, DFS, Dijkstra, Topological Sort)
+- Recursion & Backtracking
+- Dynamic Programming (1D, 2D, Knapsack, LIS, etc.)
 - Greedy Algorithms
-- Backtracking
 - Bit Manipulation
+- Sliding Window & Two Pointers
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Run
 
 1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/adityaanand05/DSA.git
-   cd dsa-cpp
+   cd DSA
    ```
 
-2. **Compile and Run:**
+2. **Compile and Run any file:**
 
    ```bash
-   g++ Arrays/01.cpp -o output
+   g++ -std=c++17 Arrays/01_two_sum.cpp -o output
    ./output
    ```
 
-3. Use the code as reference or try implementing the problems on your own.
+---
+
+## 📋 Reference
+
+Most problems are sourced from:
+- **[Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)**
+- LeetCode
+- GeeksforGeeks
+- Coding Ninjas
 
 ---
 
-## 🎯 Target Audience
+## ✍️ Note
 
-- Engineering students
-- Competitive programmers (Codeforces, LeetCode, AtCoder, etc.)
-- Interview preparation candidates
-- Self-learners interested in improving problem-solving skills
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. If you want to contribute, please fork the repository and open a PR with meaningful changes. Ensure your code is clean, readable, and tested.
+This is a **personal preparation repository**. Solutions may not be the most optimal in every case but reflect my learning approach. Feel free to use them as a reference!
 
 ---
 
 ## 📩 Contact
 
-For feedback, suggestions, or collaborations:
-
-- **Email:** [aditya19connect@gmail.com](mailto\:aditya19connect@gmail.com)
+- **Email:** [aditya19connect@gmail.com](mailto:aditya19connect@gmail.com)
 - **LinkedIn:** [adityaanand05](https://linkedin.com/in/adityaanand05)
 - **GitHub:** [@adityaanand05](https://github.com/adityaanand05)
 
@@ -99,5 +98,6 @@ For feedback, suggestions, or collaborations:
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source under the [MIT License](LICENSE).
 
+---
