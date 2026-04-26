@@ -34,8 +34,7 @@ int main() {
     vector<int> arr = {1, 3, 5, 8, 9, 2, 6, 7, 6, 8, 9};
     int n = arr.size();
 
-    cout << "Minimum number of jumps to reach the end is "
-         << minJumps(arr, n);
+    cout << "Minimum number of jumps to reach the end is "<< minJumps(arr, n);
 
     return 0;
 }
